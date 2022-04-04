@@ -25,8 +25,7 @@ EXPERIENCE
 DropStream 								                                  
  Atlanta, Georgia (remote)
 
-Implementation Engineer/Onboarding Specialist	
-			                                   October 2021 – Present
+Implementation Engineer/Onboarding Specialist October 2021 – Present
 
 •	Worked with clients to identify relevant integrations in conjunction with the Dev Team to create customized, cloud-based solutions
 
@@ -55,8 +54,7 @@ OneTrust
 
 Atlanta, Georgia
 
-Technical Implementation Consultant
-                                                        January 2020 – November 2020
+Technical Implementation Consultant January 2020 – November 2020
 
 •	Implemented software natively within client’s mobile applications for adherence with GDPR/CCPA regulations while ensuring successful data delivery during the process
 
