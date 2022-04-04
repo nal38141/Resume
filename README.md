@@ -52,7 +52,8 @@ Client Delivery Analyst
 
 
 OneTrust
-                                                                                   Atlanta, Georgia
+
+Atlanta, Georgia
 
 Technical Implementation Consultant
                                                         January 2020 – November 2020
