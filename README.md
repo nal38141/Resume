@@ -22,7 +22,8 @@ Interests: 	Emerging technology trends, stock market analysis, reading, data pri
 
 EXPERIENCE	
 		
-DropStream 								                                   Atlanta, Georgia (remote)
+DropStream 								                                  
+ Atlanta, Georgia (remote)
 
 Implementation Engineer/Onboarding Specialist	
 			                                   October 2021 – Present
