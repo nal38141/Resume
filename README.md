@@ -23,7 +23,10 @@ Interests: 	Emerging technology trends, stock market analysis, reading, data pri
 EXPERIENCE	
 		
 DropStream 								                                   Atlanta, Georgia (remote)
-Implementation Engineer/Onboarding Specialist				                                   October 2021 – Present
+
+Implementation Engineer/Onboarding Specialist	
+			                                   October 2021 – Present
+
 •	Worked with clients to identify relevant integrations in conjunction with the Dev Team to create customized, cloud-based solutions
 •	Gathered information to create client-specific conditional statements and programmatic solutions within our Rules Engine using Ruby on Rails
 •	Worked in conjunction with CEO and CTO on developing future roadmaps and creating new processes as well as enhancing current processes.
