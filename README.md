@@ -41,6 +41,7 @@ Oversight Systems
 
 Client Delivery Analyst                                                    
              November 2020 – October 2021
+
 •	Leveraged Oracle SQL and PuTTY to create enhancements for customers’ specific risk profiles, as well as working within our Concur integration, a cloud-based analytics solution for further data readability and accessibility
 
 •	Operated within a Linux VM to customize, test, and deploy solutions customized exactly to customer parameters
@@ -50,8 +51,14 @@ Client Delivery Analyst
 •	Worked directly with the Product and Dev teams to create and beta test new features in all systems
 
 
-OneTrust                                                                                   Atlanta, Georgia
-Technical Implementation Consultant                                                        January 2020 – November 2020
+OneTrust
+                                                                                   Atlanta, Georgia
+
+Technical Implementation Consultant
+                                                        January 2020 – November 2020
+
 •	Implemented software natively within client’s mobile applications for adherence with GDPR/CCPA regulations while ensuring successful data delivery during the process
+
 •	Worked around various programmatic elements in Swift and Java to deliver an operational solution 100% of the time, while cross-referencing expectations with high-value stakeholders such as VP’s and CTO’s.
+
 •	Leveraged a cloud-based solution to deliver implementations focused on their unique use cases and business needs. Specifically, using multiple cloud-based API’s to create integrations that allowed or enhanced the flow of data from a user device.
