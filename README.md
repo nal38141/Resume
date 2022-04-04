@@ -28,16 +28,26 @@ Implementation Engineer/Onboarding Specialist
 			                                   October 2021 – Present
 
 •	Worked with clients to identify relevant integrations in conjunction with the Dev Team to create customized, cloud-based solutions
+
 •	Gathered information to create client-specific conditional statements and programmatic solutions within our Rules Engine using Ruby on Rails
+
 •	Worked in conjunction with CEO and CTO on developing future roadmaps and creating new processes as well as enhancing current processes.
+
 •	Implemented clients with cloud-hosted solutions catered to their exact needs and troubleshot all errors ranging from simple typos to cloud-based infrastructure problems.
 
-Oversight Systems                                                                       Atlanta, Georgia (remote)
-Client Delivery Analyst                                                                 November 2020 – October 2021
+Oversight Systems  
+                                                                     Atlanta, Georgia (remote)
+
+Client Delivery Analyst                                                    
+             November 2020 – October 2021
 •	Leveraged Oracle SQL and PuTTY to create enhancements for customers’ specific risk profiles, as well as working within our Concur integration, a cloud-based analytics solution for further data readability and accessibility
+
 •	Operated within a Linux VM to customize, test, and deploy solutions customized exactly to customer parameters
+
 •	Maintained a 98% on-time delivery rate of custom, production-ready servers for clients
+
 •	Worked directly with the Product and Dev teams to create and beta test new features in all systems
+
 
 OneTrust                                                                                   Atlanta, Georgia
 Technical Implementation Consultant                                                        January 2020 – November 2020
