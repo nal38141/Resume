@@ -4,21 +4,24 @@ Nicholas Leonard
 24 Zorach Pl, Palm Coast, FL, 32164
 Phone: (706)-495-7938 • Email: nleonardbiz@gmail.com
 
-EDUCATION			
+EDUCATION	
+		
 UNIVERSITY OF IOWA, Tippie College of Business	                                      Iowa City, Iowa
 MBA w/ cert in Finance	                                                              August 2021 (in progress)
 
 UNIVERSITY OF GEORGIA, Terry College of Business                                      Athens, Georgia
 BBA – Management Information Systems	                                                August 2014 – December 2019
 	
-SKILLS/INTERESTS			
+SKILLS/INTERESTS
+			
 Technical: 	Microsoft Office Suite – Advanced; Signavio – Moderate; Tableau – Basic; OneTrust – Advanced; Linux – Moderate; PuTTY – Moderate; MySQL/Oracle SQL – Moderate; StoneBranch – Basic; Cloud Computing – Moderate
 Certificates: 	Lean Six Sigma Yellow Belt, Machine Learning with Python
 Coding: 	Java – Moderate; C – Basic; SQL – Moderate; R – Basic; Python – Basic; Swift – Basic; 
 Languages: 	English – Native; Spanish – Basic 	
 Interests: 	Emerging technology trends, stock market analysis, reading, data privacy and regulation, cloud-ops
 
-EXPERIENCE			
+EXPERIENCE	
+		
 DropStream 								                                                             Atlanta, Georgia (remote)
 Implementation Engineer/Onboarding Specialist				                                   October 2021 – Present
 •	Worked with clients to identify relevant integrations in conjunction with the Dev Team to create customized, cloud-based solutions
